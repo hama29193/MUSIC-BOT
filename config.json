@@ -1,7 +1,7 @@
 {
   "TOKEN": "OTgyNjQ4MTU2NDMwOTI5OTgw.GNLnqN.8l-J-wt4uWOJ3QzEq_74a06JAU0UnGI7tuQkGc",
-  "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "<",
+  "MAX_PLAYLIST_SIZE": 10 api ,
+  "PREFIX": "-",
   "PRUNING": false,
   "LOCALE": "en",
   "STAY_TIME": 30,
